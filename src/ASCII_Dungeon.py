@@ -33,9 +33,13 @@ def mainMenu():
             case "2": # Display three save profiles, allow user to choose one iff save state exists.
                 print("Select Save State to Load:")
                 displaySaveStates()
+                selected_state = input()
+                loadSaveState(selected_state)
             case "3": # Display three save profiles, allow user to delete one iff save state exists.
                 print("Select Save State to Delete:")
                 displaySaveStates()
+                selected_state = input()
+                deleteSaveState(selected_state)
             case "4": # Exits game.
                 print("Exiting...")
                 return

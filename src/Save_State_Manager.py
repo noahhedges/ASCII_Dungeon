@@ -19,4 +19,4 @@ def loadSaveState(state_to_load):
 
 def deleteSaveState(state_to_delete):
     # Takes selected state and deletes it.
-    print("State to Delete" + state_to_delete)
+    print("State to Delete: " + state_to_delete)
