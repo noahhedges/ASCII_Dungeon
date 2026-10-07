@@ -1,5 +1,6 @@
 import time
 from Save_State_Manager import *
+from Act_Manager import *
 
 def newGame():
     # ASCII forest landscape
