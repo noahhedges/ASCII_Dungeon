@@ -1,4 +1,7 @@
 # ASCII_Dungeon
-Test Repo/Project
+Author(s): Noah Hedges
+Date Created: 2026/10/07
+Date Last Modified: 2026/10/07
 
-This is a test to get used to using GitHub, Repos, and Committing.
+Terminal-based RPG style video game created to practice programming fundamentals.\
+Create your character, level your stats, slay the monsters.\
